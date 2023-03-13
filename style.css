@@ -1,8 +1,9 @@
 body{
-    background-color: #181a1b;
+    background-color: #00aaff;
     width: 100%;
     height: 100vh;
     margin: 0;
+    padding: 0;
     line-height: inherit;
     border-color: #736b5e;
     color: #6bd4e9;
